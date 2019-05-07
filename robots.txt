@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ifaexohquo.jsdatav.is/sitemap.xml
